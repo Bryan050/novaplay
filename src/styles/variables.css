@@ -1,0 +1,21 @@
+:root {
+    /*Colors*/
+    --primary: hsl(1, 81%, 59%);
+    --primary-dark: #ca0d0a;
+    --secondary: #0E0E0E;
+    --secondary-light: #333333;
+    --background: #000000;
+    --accent: #232323;
+    --accent-80: #232323d8;
+    --text-primary: #FFFFFF;
+    --text-primary-dark: #c0c0c0;
+
+    /* Font Sizes */
+    --font-xs: 0.75rem;
+    --font-sm: 0.875rem;
+    --font-base: 1rem;
+    --font-md: 1.125rem;
+    --font-lg: 1.25rem;
+    --font-xl: 1.5rem;
+    --font-xxl: 2rem;
+}

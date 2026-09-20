@@ -1,0 +1,62 @@
+# Dependencias
+node_modules/
+.pnpm/
+.yarn/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Builds y outputs
+dist/
+build/
+out/
+coverage/
+public/build/
+.cache/
+.next/
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# VSCode settings (ya tienes esto pero para que sea claro)
+.vscode/*
+!.vscode/extensions.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Editor archivos temporales
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional: eslint cache
+.eslintcache
+
+# Optional: vite
+.vite/
+
+# Optional: npm cache
+.npm/
+
+# Optional: parcel cache
+.parcel-cache/
